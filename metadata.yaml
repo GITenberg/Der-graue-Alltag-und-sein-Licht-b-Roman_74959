@@ -1,0 +1,41 @@
+_repo: Der-graue-Alltag-und-sein-Licht-b-Roman_74959
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Krahforst, Hermann
+    alias: Krahforst, H.
+    birthdate: 1872
+    deathdate: 1943
+    gutenberg_agent_id: '57746'
+    url: http://www.gutenberg.org/2009/agents/57746
+    wikipedia: https://de.wikipedia.org/wiki/Hermann_Krahforst
+creator:
+  author:
+    agent_name: Rose, Felicitas
+    alias: Moersberger, Rose Felicitas
+    birthdate: 1862
+    deathdate: 1938
+    gutenberg_agent_id: '51452'
+    url: http://www.gutenberg.org/2009/agents/51452
+    wikipedia: https://de.wikipedia.org/wiki/Felicitas_Rose
+description: ''
+gutenberg_issued: '2024-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74959'
+  lccn: '24020406'
+language: de
+pgterms:marc905: 20230219024857rose
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bDeutsches Verlagshaus Bong & Co., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Der graue Alltag und sein Licht : $b Roman'
+url: http://www.gutenberg.org/ebooks/74959
