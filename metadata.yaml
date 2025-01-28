@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '57746'
     url: http://www.gutenberg.org/2009/agents/57746
     wikipedia: https://de.wikipedia.org/wiki/Hermann_Krahforst
+covers:
+- cover_type: archival
+  image_path: 74959-h/images/cover.jpg
 creator:
   author:
     agent_name: Rose, Felicitas
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51452
     wikipedia: https://de.wikipedia.org/wiki/Felicitas_Rose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74959#Der-graue-Alltag-und-sein-Licht-b-Roman
 gutenberg_issued: '2024-12-21'
 gutenberg_type: Text
 identifiers:
